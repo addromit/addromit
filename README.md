@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hi 👋, I'm Romit Addagsatla</h1>
+<h1 align="center">Hi 👋, I'm Romit Addagatla</h1>
 <h3 align="center">A passionate ML engineer from India</h3>
 <img img align="right" alt="Coding" width="400" src="https://cdn.prod.website-files.com/646caab5700fe0d1824a61b9/64c7d4d0d67e42c796938738_engineers.png">
 
