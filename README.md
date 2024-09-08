@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Human Violence Alert Using Human Action Recognition**
 
-- 🌱 I’m currently learning **LLMs**
+- 🌱 I’m currently learning **LLMs and Docker** 
 
 - 📫 How to reach me **addromit2307@gmail.com**
 
