@@ -1,4 +1,4 @@
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5uajdlenl4NXBlZ240YWZ2bXhyYWZzazEwaG1ocnBydDh1czA4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4JyZXeJBh5yr1DGg/giphy.webp)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Romit Addagsatla</h1>
 <h3 align="center">A passionate ML engineer from India</h3>
